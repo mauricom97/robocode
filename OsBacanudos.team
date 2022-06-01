@@ -1,0 +1,7 @@
+#Robocode robot team
+#Tue May 31 19:19:31 BRT 2022
+team.members=mnds.MeuRobo*,mnds.MeuRobo*,mnds.MeuRobo*
+team.author.name=Mauricio
+robocode.version=1.9.4.5
+team.description=Descri\u00E7\u00E3o inicial
+team.version=1.0
